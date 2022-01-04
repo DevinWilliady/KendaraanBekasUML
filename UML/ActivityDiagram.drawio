@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T03:05:11.863Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="9gydO_6UIaXRghTtGvAC" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T03:05:22.621Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="7mbFTI_NI93WMl5wf6Yn" version="16.1.4" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="791" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -950,7 +950,7 @@
           <mxGeometry x="80" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CUxJD5j-P1nPdLDIXRBb-88" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="CUxJD5j-P1nPdLDIXRBb-80">
-          <mxGeometry x="185" y="780" width="30" height="30" as="geometry" />
+          <mxGeometry x="175" y="780" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CUxJD5j-P1nPdLDIXRBb-96" value="Cek Penawaran Sudah ada&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="CUxJD5j-P1nPdLDIXRBb-80">
           <mxGeometry x="60" y="600" width="115" height="80" as="geometry" />
