@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T14:37:45.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="-elUtbQBW8L2M6OCbwxp" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T14:43:09.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="6g9eeyVUaNNZZ26vDMVA" version="16.1.4" type="github">
   <diagram id="PsjjYhiCW0A5xgcCT2G0" name="Page-1">
-    <mxGraphModel dx="3389" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,13 +14,13 @@
           <mxGeometry x="330" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-10" value="Login" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
-          <mxGeometry x="420" y="340" width="140" height="70" as="geometry" />
+          <mxGeometry x="420" y="260" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-11" value="Register" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
-          <mxGeometry x="220" y="200" width="140" height="70" as="geometry" />
+          <mxGeometry x="120" y="200" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-12" value="Logout" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
-          <mxGeometry x="420" y="220" width="140" height="70" as="geometry" />
+          <mxGeometry x="420" y="170" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-20" value="Informasi Akun" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
           <mxGeometry x="80" y="1250" width="140" height="70" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry x="80" y="1350" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-29" value="Melihat Produk" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
-          <mxGeometry x="430" y="440" width="140" height="70" as="geometry" />
+          <mxGeometry x="310" y="550" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-30" value="Balas Penawaran" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
-          <mxGeometry x="430" y="640" width="140" height="70" as="geometry" />
+          <mxGeometry x="490" y="690" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-31" value="Mengajukan Penawaran" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
           <mxGeometry x="430" y="850" width="140" height="70" as="geometry" />
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-45" value="Terima Penawaran" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
-          <mxGeometry x="430" y="530" width="140" height="70" as="geometry" />
+          <mxGeometry x="340" y="630" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-51" value="Menerima Pengajuan" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
           <mxGeometry x="750" y="760" width="140" height="70" as="geometry" />
@@ -89,6 +89,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;endArrow=none;endFill=0;" edge="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3" source="ZlpCyy8nbRzgY6lqf7Ct-17" target="ZlpCyy8nbRzgY6lqf7Ct-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;endArrow=none;endFill=0;" edge="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3" source="ZlpCyy8nbRzgY6lqf7Ct-17" target="ZlpCyy8nbRzgY6lqf7Ct-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-17" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
@@ -113,10 +116,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-54" value="Melihat Artikel" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
-          <mxGeometry x="430" y="750" width="140" height="70" as="geometry" />
+          <mxGeometry x="550" y="780" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-57" value="Report" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
-          <mxGeometry x="750" y="868" width="140" height="70" as="geometry" />
+          <mxGeometry x="650" y="410" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-59" value="Menghapus Artikel" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
           <mxGeometry x="755" y="959" width="140" height="70" as="geometry" />
@@ -125,10 +128,35 @@
           <mxGeometry x="760" y="1050" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-63" value="Melengkapi Produk" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
-          <mxGeometry x="740" y="190" width="140" height="70" as="geometry" />
+          <mxGeometry x="740" y="140" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-65" value="Mengubah Produk" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
-          <mxGeometry x="740" y="300" width="140" height="70" as="geometry" />
+          <mxGeometry x="750" y="230" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-69" value="Filter" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
+          <mxGeometry x="400" y="360" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-72" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3" source="ZlpCyy8nbRzgY6lqf7Ct-69" target="ZlpCyy8nbRzgY6lqf7Ct-29">
+          <mxGeometry x="0.2186" y="3" width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="410" as="sourcePoint" />
+            <mxPoint x="540" y="410" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-73" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3" source="ZlpCyy8nbRzgY6lqf7Ct-69" target="ZlpCyy8nbRzgY6lqf7Ct-57">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="480" as="sourcePoint" />
+            <mxPoint x="660" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-74" value="Menambah Produk" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
+          <mxGeometry x="540" y="480" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-76" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;fontFamily=Times New Roman;fontSize=20;" edge="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3" source="ZlpCyy8nbRzgY6lqf7Ct-69" target="ZlpCyy8nbRzgY6lqf7Ct-74">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="470" as="sourcePoint" />
+            <mxPoint x="660" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;endArrow=none;endFill=0;" edge="1" parent="1" source="ZlpCyy8nbRzgY6lqf7Ct-4" target="ZlpCyy8nbRzgY6lqf7Ct-10">
           <mxGeometry relative="1" as="geometry" />
