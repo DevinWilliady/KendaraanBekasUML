@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T14:31:59.666Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="h-MHQkiFnYd0tYKWPLgL" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T14:37:45.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="-elUtbQBW8L2M6OCbwxp" version="16.1.4" type="github">
   <diagram id="PsjjYhiCW0A5xgcCT2G0" name="Page-1">
-    <mxGraphModel dx="1260" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3389" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="420" y="340" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-11" value="Register" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
-          <mxGeometry x="115" y="140" width="140" height="70" as="geometry" />
+          <mxGeometry x="220" y="200" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-12" value="Logout" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
           <mxGeometry x="420" y="220" width="140" height="70" as="geometry" />
