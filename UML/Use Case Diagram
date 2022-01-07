@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T07:46:21.644Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="ZLUfi8O4S8wdPGtUgfob" version="16.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-07T07:47:24.811Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="AdR9hdyFSwRSmoTYgXvi" version="16.1.4" type="github" pages="2">
   <diagram id="PsjjYhiCW0A5xgcCT2G0" name="Mobile">
     <mxGraphModel dx="1977" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,6 +123,15 @@
         </mxCell>
         <mxCell id="B50TVUP5hLIm6PCbgsqm-2" value="Melengkapi Produk" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
           <mxGeometry x="750" y="1050" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="B50TVUP5hLIm6PCbgsqm-5" value="Mengubah Informasi Akun" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
+          <mxGeometry x="390" y="1320" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="B50TVUP5hLIm6PCbgsqm-6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;fontFamily=Times New Roman;fontSize=20;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3" source="B50TVUP5hLIm6PCbgsqm-5" target="ZlpCyy8nbRzgY6lqf7Ct-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="600" y="1210" as="sourcePoint" />
+            <mxPoint x="460.0000000000068" y="1254" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;endArrow=none;endFill=0;" parent="1" source="ZlpCyy8nbRzgY6lqf7Ct-4" target="ZlpCyy8nbRzgY6lqf7Ct-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
