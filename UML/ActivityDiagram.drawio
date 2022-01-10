@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T04:48:55.589Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="HbolzBmxYcVHY8VjNCmN" version="16.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-10T04:49:47.068Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="2p0DnHcwIw8eisEakGiH" version="16.1.4" type="github" pages="2">
   <diagram name="Mobile" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="2636" dy="1482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2379,7 +2379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gcPvk5nAYLllPjbzdONJ" name="Web">
-    <mxGraphModel dx="1318" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4744" dy="2668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Z6F6c8A_yAIQ694QVLyL-0" />
         <mxCell id="Z6F6c8A_yAIQ694QVLyL-1" parent="Z6F6c8A_yAIQ694QVLyL-0" />
@@ -5506,7 +5506,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B-TBIyIJ3YHwr96JCBZQ-326" value="KendaraanBekas" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="Z6F6c8A_yAIQ694QVLyL-1">
-          <mxGeometry x="571" y="5088" width="580" height="770" as="geometry" />
+          <mxGeometry x="40" y="5088" width="580" height="770" as="geometry" />
         </mxCell>
         <mxCell id="B-TBIyIJ3YHwr96JCBZQ-327" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="B-TBIyIJ3YHwr96JCBZQ-326" source="B-TBIyIJ3YHwr96JCBZQ-334" target="B-TBIyIJ3YHwr96JCBZQ-346">
           <mxGeometry relative="1" as="geometry">
@@ -5671,7 +5671,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B-TBIyIJ3YHwr96JCBZQ-362" value="KendaraanBekas" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="Z6F6c8A_yAIQ694QVLyL-1">
-          <mxGeometry x="1200" y="5088" width="580" height="770" as="geometry" />
+          <mxGeometry x="669" y="5088" width="580" height="770" as="geometry" />
         </mxCell>
         <mxCell id="B-TBIyIJ3YHwr96JCBZQ-363" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="B-TBIyIJ3YHwr96JCBZQ-362" source="B-TBIyIJ3YHwr96JCBZQ-370" target="B-TBIyIJ3YHwr96JCBZQ-382">
           <mxGeometry relative="1" as="geometry">
@@ -5836,7 +5836,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B-TBIyIJ3YHwr96JCBZQ-398" value="KendaraanBekas" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="Z6F6c8A_yAIQ694QVLyL-1">
-          <mxGeometry x="1810" y="5088" width="580" height="770" as="geometry" />
+          <mxGeometry x="1279" y="5088" width="580" height="770" as="geometry" />
         </mxCell>
         <mxCell id="B-TBIyIJ3YHwr96JCBZQ-399" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="B-TBIyIJ3YHwr96JCBZQ-398" source="B-TBIyIJ3YHwr96JCBZQ-406" target="B-TBIyIJ3YHwr96JCBZQ-418">
           <mxGeometry relative="1" as="geometry">
