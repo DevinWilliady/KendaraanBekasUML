@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T13:40:18.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="kdid4zb42HGCiy650W5g" version="16.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-12T03:24:14.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="aQTaduywwYtdiX8o8N4n" version="16.1.4" type="github" pages="2">
   <diagram id="PsjjYhiCW0A5xgcCT2G0" name="Mobile">
-    <mxGraphModel dx="1977" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-3" value="w" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="380" y="50" width="1200" height="2020" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZlpCyy8nbRzgY6lqf7Ct-3" vertex="1">
