@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T11:04:27.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="0Blr5T223A4Uz42mYlXg" version="16.4.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-01-24T11:05:15.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="PHvvZX-BO-j44jwkPcis" version="16.4.5" type="github" pages="10">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Login">
     <mxGraphModel dx="2231" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1424,13 +1424,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jNMMZYSxZS50vtwrsnQL-20" value="DB : Product" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="JpMrMr1_dZixXjKy_reb-1">
-          <mxGeometry x="1440" y="85" width="120" height="680" as="geometry" />
+          <mxGeometry x="1440" y="80" width="120" height="680" as="geometry" />
         </mxCell>
         <mxCell id="jNMMZYSxZS50vtwrsnQL-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="jNMMZYSxZS50vtwrsnQL-20">
           <mxGeometry x="55" y="180" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jNMMZYSxZS50vtwrsnQL-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="jNMMZYSxZS50vtwrsnQL-20">
-          <mxGeometry x="55" y="430" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jNMMZYSxZS50vtwrsnQL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JpMrMr1_dZixXjKy_reb-1" source="jNMMZYSxZS50vtwrsnQL-7" target="jNMMZYSxZS50vtwrsnQL-13">
           <mxGeometry relative="1" as="geometry">
@@ -1605,6 +1602,12 @@
         </mxCell>
         <mxCell id="jNMMZYSxZS50vtwrsnQL-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="klfD3EUUebd3ud-ma_Dm-4">
           <mxGeometry x="55" y="215" width="10" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="uyAqIYsDwJmIpmdGQsH8-0" value="DB : Penawaran" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="JpMrMr1_dZixXjKy_reb-1">
+          <mxGeometry x="1650" y="80" width="120" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="jNMMZYSxZS50vtwrsnQL-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="uyAqIYsDwJmIpmdGQsH8-0">
+          <mxGeometry x="55" y="430" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
