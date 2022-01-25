@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T12:16:54.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="NgqBMWuGoC-9QB5f_bx-" version="16.4.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-25T12:57:27.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="VnDR6uZBbLpTN_UbYe1K" version="16.4.5" type="github" pages="10">
   <diagram id="vs2qv4dK77vRTaIsI0Ao" name="Input Produk">
     <mxGraphModel dx="1381" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1544,6 +1544,59 @@
           <mxGeometry x="0.2526" y="2" relative="1" as="geometry">
             <mxPoint x="14" y="-17" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XAwLyfhlmMT5I40ZvcHx" name="Page-10">
+    <mxGraphModel dx="1381" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-0" />
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-1" parent="Jdd2HlYhHeVwGfmNkd__-0" />
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="Jdd2HlYhHeVwGfmNkd__-1">
+          <mxGeometry x="40" y="80" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Jdd2HlYhHeVwGfmNkd__-2">
+          <mxGeometry x="5" y="60" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-3" value="UI : Dashboard" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="Jdd2HlYhHeVwGfmNkd__-1">
+          <mxGeometry x="220" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Jdd2HlYhHeVwGfmNkd__-3">
+          <mxGeometry x="45" y="60" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-4" value="UI : Approval" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="Jdd2HlYhHeVwGfmNkd__-1">
+          <mxGeometry x="390" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Jdd2HlYhHeVwGfmNkd__-4">
+          <mxGeometry x="45" y="100" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-5" value="Controller : Approval" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="Jdd2HlYhHeVwGfmNkd__-1">
+          <mxGeometry x="620" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Jdd2HlYhHeVwGfmNkd__-1" source="Jdd2HlYhHeVwGfmNkd__-6" target="Jdd2HlYhHeVwGfmNkd__-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-9" value="1: pilih approval dimenu&amp;nbsp; transaksi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Jdd2HlYhHeVwGfmNkd__-8">
+          <mxGeometry x="-0.3333" y="2" relative="1" as="geometry">
+            <mxPoint x="25" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Jdd2HlYhHeVwGfmNkd__-1" source="Jdd2HlYhHeVwGfmNkd__-7" target="Jdd2HlYhHeVwGfmNkd__-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="180" />
+              <mxPoint x="400" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-12" value="2: redirect()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Jdd2HlYhHeVwGfmNkd__-11">
+          <mxGeometry x="-0.275" y="3" relative="1" as="geometry">
+            <mxPoint x="17" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jdd2HlYhHeVwGfmNkd__-13" value="DB KendaraanBekas : Approval" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="Jdd2HlYhHeVwGfmNkd__-1">
+          <mxGeometry x="800" y="80" width="140" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
