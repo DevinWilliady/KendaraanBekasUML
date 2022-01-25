@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T15:48:05.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="JYvI7o7FbZRanh7HpoV5" version="16.4.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-01-25T15:48:50.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="b_WEtsyIuVGf-2EuIGO4" version="16.4.5" type="github" pages="13">
   <diagram id="vs2qv4dK77vRTaIsI0Ao" name="Input Produk">
     <mxGraphModel dx="1381" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2071,7 +2071,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="jBBofe3w6DfLCoKBeRuI" name="Page-13">
+  <diagram id="jBBofe3w6DfLCoKBeRuI" name="Login">
     <mxGraphModel dx="2231" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="yJ6o0G5Ne2VuXMTcJ_cv-0" />
@@ -2214,7 +2214,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yJ6o0G5Ne2VuXMTcJ_cv-31" value="7: Redirect to home" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yJ6o0G5Ne2VuXMTcJ_cv-30">
+        <mxCell id="yJ6o0G5Ne2VuXMTcJ_cv-31" value="7: Redirect to dashboard" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yJ6o0G5Ne2VuXMTcJ_cv-30">
           <mxGeometry x="-0.1679" y="2" relative="1" as="geometry">
             <mxPoint x="-25" y="-17" as="offset" />
           </mxGeometry>
