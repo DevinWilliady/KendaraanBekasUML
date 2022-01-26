@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T22:11:20.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="G7D0yEM7TOe5H69PEBgn" version="16.4.7" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2022-01-26T22:13:41.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="rLcH0QqUhMas71jAdPF3" version="16.4.7" type="github" pages="24">
   <diagram id="vs2qv4dK77vRTaIsI0Ao" name="Input Produk">
     <mxGraphModel dx="1621" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3845,7 +3845,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="mDHDum3wxhtT2BqizKF8" name="Page-23">
+  <diagram id="mDHDum3wxhtT2BqizKF8" name="Update Approval Level">
     <mxGraphModel dx="661" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kBQQShwww49amKtnI_im-0" />
@@ -3986,6 +3986,108 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kBQQShwww49amKtnI_im-29" value="8: success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kBQQShwww49amKtnI_im-28">
+          <mxGeometry x="0.2765" y="-2" relative="1" as="geometry">
+            <mxPoint x="-38" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uPMwgP1xP-oytv3GlQ25" name="Delete Approval Level">
+    <mxGraphModel dx="661" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-0" />
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-1" parent="NpZH4_z6CzyXI1EbOcTa-0" />
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="NpZH4_z6CzyXI1EbOcTa-1">
+          <mxGeometry x="40" y="120" width="20" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NpZH4_z6CzyXI1EbOcTa-2">
+          <mxGeometry x="5" y="50" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-4" value="Controller : Approval" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="NpZH4_z6CzyXI1EbOcTa-1">
+          <mxGeometry x="420" y="120" width="100" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NpZH4_z6CzyXI1EbOcTa-4">
+          <mxGeometry x="45" y="90" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NpZH4_z6CzyXI1EbOcTa-4">
+          <mxGeometry x="45" y="170" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-7" value="DB : Approval" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="NpZH4_z6CzyXI1EbOcTa-1">
+          <mxGeometry x="640" y="120" width="100" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NpZH4_z6CzyXI1EbOcTa-7">
+          <mxGeometry x="50" y="130" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-9" value="UI : Approval Type and Approval Type version" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="NpZH4_z6CzyXI1EbOcTa-1">
+          <mxGeometry x="160" y="120" width="140" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NpZH4_z6CzyXI1EbOcTa-9">
+          <mxGeometry x="65" y="50" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NpZH4_z6CzyXI1EbOcTa-1" source="NpZH4_z6CzyXI1EbOcTa-3" target="NpZH4_z6CzyXI1EbOcTa-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="190" />
+              <mxPoint x="100" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-15" value="1: klik delete di gridview" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NpZH4_z6CzyXI1EbOcTa-14">
+          <mxGeometry x="-0.3882" y="-5" relative="1" as="geometry">
+            <mxPoint x="13" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NpZH4_z6CzyXI1EbOcTa-1" source="NpZH4_z6CzyXI1EbOcTa-10" target="NpZH4_z6CzyXI1EbOcTa-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="210" />
+              <mxPoint x="440" y="210" />
+            </Array>
+            <mxPoint x="405" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-21" value="2: deleteApprovalLevel(approvalLevel)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NpZH4_z6CzyXI1EbOcTa-20">
+          <mxGeometry x="-0.3333" y="1" relative="1" as="geometry">
+            <mxPoint x="32" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NpZH4_z6CzyXI1EbOcTa-1" source="NpZH4_z6CzyXI1EbOcTa-5" target="NpZH4_z6CzyXI1EbOcTa-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="250" />
+              <mxPoint x="610" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-23" value="3: deleteApprovalLevel(approvalLevel)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NpZH4_z6CzyXI1EbOcTa-22">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint x="25" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="NpZH4_z6CzyXI1EbOcTa-1" source="NpZH4_z6CzyXI1EbOcTa-8" target="NpZH4_z6CzyXI1EbOcTa-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="290" />
+              <mxPoint x="590" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-25" value="6: resullt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NpZH4_z6CzyXI1EbOcTa-24">
+          <mxGeometry x="0.31" y="3" relative="1" as="geometry">
+            <mxPoint x="16" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="NpZH4_z6CzyXI1EbOcTa-1" source="NpZH4_z6CzyXI1EbOcTa-6" target="NpZH4_z6CzyXI1EbOcTa-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="330" />
+              <mxPoint x="280" y="330" />
+            </Array>
+            <mxPoint x="395" y="385" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NpZH4_z6CzyXI1EbOcTa-29" value="8: success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NpZH4_z6CzyXI1EbOcTa-28">
           <mxGeometry x="0.2765" y="-2" relative="1" as="geometry">
             <mxPoint x="-38" y="-13" as="offset" />
           </mxGeometry>
