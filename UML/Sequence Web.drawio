@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T22:16:33.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="9Fipe4ey8tsHX_lbiNCw" version="16.4.7" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2022-01-26T23:20:33.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="9TIXEpBrT_Qw_fb2MJIF" version="16.4.7" type="github" pages="25">
   <diagram id="vs2qv4dK77vRTaIsI0Ao" name="Input Produk">
     <mxGraphModel dx="1621" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4096,21 +4096,98 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1ePYjFq955SsiYKYDB5i" name="Show Approval Group User">
-    <mxGraphModel dx="661" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="1IAtZKT782AY3C9mRwEJ-0" />
         <mxCell id="1IAtZKT782AY3C9mRwEJ-1" parent="1IAtZKT782AY3C9mRwEJ-0" />
-        <mxCell id="8zuDzuWSGTkVw0LzK9-k-0" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1IAtZKT782AY3C9mRwEJ-1">
+        <mxCell id="8zuDzuWSGTkVw0LzK9-k-0" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1IAtZKT782AY3C9mRwEJ-1" vertex="1">
           <mxGeometry x="40" y="120" width="20" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="8zuDzuWSGTkVw0LzK9-k-1" value="UI : Update&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1IAtZKT782AY3C9mRwEJ-1">
-          <mxGeometry x="160" y="120" width="100" height="300" as="geometry" />
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="8zuDzuWSGTkVw0LzK9-k-0">
+          <mxGeometry x="5" y="70" width="10" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="8zuDzuWSGTkVw0LzK9-k-2" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1IAtZKT782AY3C9mRwEJ-1">
-          <mxGeometry x="360" y="120" width="100" height="300" as="geometry" />
+        <mxCell id="8zuDzuWSGTkVw0LzK9-k-1" value="UI : Approval Type and List Approval Type Version&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1IAtZKT782AY3C9mRwEJ-1" vertex="1">
+          <mxGeometry x="150" y="120" width="180" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="8zuDzuWSGTkVw0LzK9-k-3" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1IAtZKT782AY3C9mRwEJ-1">
-          <mxGeometry x="600" y="120" width="100" height="300" as="geometry" />
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="8zuDzuWSGTkVw0LzK9-k-1">
+          <mxGeometry x="85" y="70" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8zuDzuWSGTkVw0LzK9-k-2" value="UI : List Approval Group and Approval Level" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1IAtZKT782AY3C9mRwEJ-1" vertex="1">
+          <mxGeometry x="360" y="120" width="140" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="8zuDzuWSGTkVw0LzK9-k-2">
+          <mxGeometry x="65" y="110" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8zuDzuWSGTkVw0LzK9-k-3" value="UI : Tampil Approval Group User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1IAtZKT782AY3C9mRwEJ-1" vertex="1">
+          <mxGeometry x="550" y="120" width="140" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="8zuDzuWSGTkVw0LzK9-k-3">
+          <mxGeometry x="65" y="170" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1IAtZKT782AY3C9mRwEJ-1" source="ICEFIwr8nUFQJgG3DStq-0" target="ICEFIwr8nUFQJgG3DStq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="210" />
+              <mxPoint x="100" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-5" value="1: Pilih Approval Type Version" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ICEFIwr8nUFQJgG3DStq-4">
+          <mxGeometry x="-0.2667" relative="1" as="geometry">
+            <mxPoint x="19" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1IAtZKT782AY3C9mRwEJ-1" source="ICEFIwr8nUFQJgG3DStq-1" target="ICEFIwr8nUFQJgG3DStq-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="230" />
+              <mxPoint x="380" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-7" value="2: redirect(approvalTypeVersion)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ICEFIwr8nUFQJgG3DStq-6">
+          <mxGeometry x="-0.3667" relative="1" as="geometry">
+            <mxPoint x="38" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1IAtZKT782AY3C9mRwEJ-1" source="ICEFIwr8nUFQJgG3DStq-0" target="ICEFIwr8nUFQJgG3DStq-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="260" />
+              <mxPoint x="150" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-9" value="3: Pilih Kode Group" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ICEFIwr8nUFQJgG3DStq-8">
+          <mxGeometry x="-0.8108" y="1" relative="1" as="geometry">
+            <mxPoint x="40" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1IAtZKT782AY3C9mRwEJ-1" source="ICEFIwr8nUFQJgG3DStq-2" target="ICEFIwr8nUFQJgG3DStq-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="290" />
+              <mxPoint x="560" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-11" value="4: redirect()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ICEFIwr8nUFQJgG3DStq-10">
+          <mxGeometry x="-0.2111" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1IAtZKT782AY3C9mRwEJ-1" source="ICEFIwr8nUFQJgG3DStq-3" target="ICEFIwr8nUFQJgG3DStq-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="320" />
+              <mxPoint x="340" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ICEFIwr8nUFQJgG3DStq-13" value="5: show" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ICEFIwr8nUFQJgG3DStq-12">
+          <mxGeometry x="-0.6" y="-2" relative="1" as="geometry">
+            <mxPoint x="7" y="-8" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
