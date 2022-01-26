@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T23:26:13.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="gvyCPGNUg-g7i1i9_fUY" version="16.4.7" type="github" pages="26">
+<mxfile host="app.diagrams.net" modified="2022-01-26T23:28:58.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="dN-BxzdgeABdYlOP48tm" version="16.4.7" type="github" pages="27">
   <diagram id="vs2qv4dK77vRTaIsI0Ao" name="Input Produk">
     <mxGraphModel dx="1621" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4192,8 +4192,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="soBGj6ReHL962qiFT6fX" name="Page-26">
-    <mxGraphModel dx="1381" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="soBGj6ReHL962qiFT6fX" name="Add Approval Group User">
+    <mxGraphModel dx="1621" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="CRxEnIqPZj2VAtC2ednl-0" />
         <mxCell id="CRxEnIqPZj2VAtC2ednl-1" parent="CRxEnIqPZj2VAtC2ednl-0" />
@@ -4333,6 +4333,154 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CRxEnIqPZj2VAtC2ednl-33" value="8: success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CRxEnIqPZj2VAtC2ednl-32">
+          <mxGeometry x="-0.3714" y="-2" relative="1" as="geometry">
+            <mxPoint x="25" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uDYnqXtdBrsx7c9iPt6w" name="Page-27">
+    <mxGraphModel dx="1621" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-0" />
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-1" parent="KTJR3eDSU0Lb5eC4ANmi-0" />
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-2" value="UI : Approval Group User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="KTJR3eDSU0Lb5eC4ANmi-1">
+          <mxGeometry x="160" y="160" width="120" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="KTJR3eDSU0Lb5eC4ANmi-2">
+          <mxGeometry x="55" y="70" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-4" value="UI : Add Approval Group User Form" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="KTJR3eDSU0Lb5eC4ANmi-1">
+          <mxGeometry x="340" y="160" width="140" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="KTJR3eDSU0Lb5eC4ANmi-4">
+          <mxGeometry x="65" y="110" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="KTJR3eDSU0Lb5eC4ANmi-4">
+          <mxGeometry x="65" y="290" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-7" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="KTJR3eDSU0Lb5eC4ANmi-1">
+          <mxGeometry x="40" y="160" width="20" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="KTJR3eDSU0Lb5eC4ANmi-7">
+          <mxGeometry x="5" y="70" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KTJR3eDSU0Lb5eC4ANmi-1" source="KTJR3eDSU0Lb5eC4ANmi-8" target="KTJR3eDSU0Lb5eC4ANmi-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="250" />
+              <mxPoint x="100" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-10" value="1: klik edit pada grid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KTJR3eDSU0Lb5eC4ANmi-9">
+          <mxGeometry x="-0.3" y="-2" relative="1" as="geometry">
+            <mxPoint x="19" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KTJR3eDSU0Lb5eC4ANmi-1" source="KTJR3eDSU0Lb5eC4ANmi-3" target="KTJR3eDSU0Lb5eC4ANmi-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="270" />
+              <mxPoint x="360" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-12" value="2: redirect()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KTJR3eDSU0Lb5eC4ANmi-11">
+          <mxGeometry x="-0.2222" y="1" relative="1" as="geometry">
+            <mxPoint x="15" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-13" value="Controller : Approval&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="KTJR3eDSU0Lb5eC4ANmi-1">
+          <mxGeometry x="540" y="160" width="140" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="KTJR3eDSU0Lb5eC4ANmi-13">
+          <mxGeometry x="65" y="170" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="KTJR3eDSU0Lb5eC4ANmi-13">
+          <mxGeometry x="65" y="250" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KTJR3eDSU0Lb5eC4ANmi-1" source="KTJR3eDSU0Lb5eC4ANmi-5" target="KTJR3eDSU0Lb5eC4ANmi-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="330" />
+              <mxPoint x="540" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-17" value="4: updateApprovalGroupUser(data)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KTJR3eDSU0Lb5eC4ANmi-16">
+          <mxGeometry x="-0.3412" y="2" relative="1" as="geometry">
+            <mxPoint x="29" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KTJR3eDSU0Lb5eC4ANmi-1" source="KTJR3eDSU0Lb5eC4ANmi-8" target="KTJR3eDSU0Lb5eC4ANmi-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="300" />
+              <mxPoint x="140" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-19" value="3: Ubah data &amp;amp; submit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KTJR3eDSU0Lb5eC4ANmi-18">
+          <mxGeometry x="-0.7771" y="3" relative="1" as="geometry">
+            <mxPoint x="36" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-20" value="DB : Approval&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="KTJR3eDSU0Lb5eC4ANmi-1">
+          <mxGeometry x="770" y="160" width="140" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="KTJR3eDSU0Lb5eC4ANmi-20">
+          <mxGeometry x="65" y="210" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KTJR3eDSU0Lb5eC4ANmi-1" source="KTJR3eDSU0Lb5eC4ANmi-14" target="KTJR3eDSU0Lb5eC4ANmi-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="370" />
+              <mxPoint x="690" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-23" value="5: updateApprovalGroupUser(data)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KTJR3eDSU0Lb5eC4ANmi-22">
+          <mxGeometry x="-0.2421" y="2" relative="1" as="geometry">
+            <mxPoint x="23" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="KTJR3eDSU0Lb5eC4ANmi-1" source="KTJR3eDSU0Lb5eC4ANmi-21" target="KTJR3eDSU0Lb5eC4ANmi-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="410" />
+              <mxPoint x="740" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-25" value="6: result" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KTJR3eDSU0Lb5eC4ANmi-24">
+          <mxGeometry x="0.3263" y="-1" relative="1" as="geometry">
+            <mxPoint x="31" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="KTJR3eDSU0Lb5eC4ANmi-1" source="KTJR3eDSU0Lb5eC4ANmi-15" target="KTJR3eDSU0Lb5eC4ANmi-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="450" />
+              <mxPoint x="450" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-27" value="7: success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KTJR3eDSU0Lb5eC4ANmi-26">
+          <mxGeometry x="0.2235" y="-2" relative="1" as="geometry">
+            <mxPoint x="9" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="KTJR3eDSU0Lb5eC4ANmi-1" source="KTJR3eDSU0Lb5eC4ANmi-6" target="KTJR3eDSU0Lb5eC4ANmi-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="470" />
+              <mxPoint x="130" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KTJR3eDSU0Lb5eC4ANmi-29" value="8: success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KTJR3eDSU0Lb5eC4ANmi-28">
           <mxGeometry x="-0.3714" y="-2" relative="1" as="geometry">
             <mxPoint x="25" y="-8" as="offset" />
           </mxGeometry>
