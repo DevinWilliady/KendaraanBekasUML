@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T11:36:19.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="kx669wTqXoTuTFyCpPZp" version="16.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-26T16:56:50.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="CQU4qxSgOITBFSe-VOxs" version="16.4.6" type="github" pages="2">
   <diagram id="PsjjYhiCW0A5xgcCT2G0" name="Mobile">
     <mxGraphModel dx="2844" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-3" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="380" y="50" width="1200" height="2020" as="geometry" />
+          <mxGeometry x="390" y="50" width="1200" height="2020" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZlpCyy8nbRzgY6lqf7Ct-3" vertex="1">
           <mxGeometry y="70" width="940" height="1510" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="410" y="500" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-30" value="Balas Penawaran" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="ZlpCyy8nbRzgY6lqf7Ct-3" vertex="1">
-          <mxGeometry x="490" y="690" width="140" height="70" as="geometry" />
+          <mxGeometry x="700" y="720" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-31" value="Penawaran" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="ZlpCyy8nbRzgY6lqf7Ct-3" vertex="1">
           <mxGeometry x="430" y="850" width="140" height="70" as="geometry" />
@@ -62,7 +62,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-45" value="Terima Penawaran" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" parent="ZlpCyy8nbRzgY6lqf7Ct-3" vertex="1">
-          <mxGeometry x="390" y="600" width="140" height="70" as="geometry" />
+          <mxGeometry x="550" y="655" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;endArrow=none;endFill=0;" parent="ZlpCyy8nbRzgY6lqf7Ct-3" source="ZlpCyy8nbRzgY6lqf7Ct-17" target="ZlpCyy8nbRzgY6lqf7Ct-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -135,6 +135,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rP3hNQ944Pyyz7sb_cdR-2" value="Lupa Password" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="ZlpCyy8nbRzgY6lqf7Ct-3">
+          <mxGeometry x="400" y="585" width="140" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;endArrow=none;endFill=0;" parent="1" source="ZlpCyy8nbRzgY6lqf7Ct-4" target="ZlpCyy8nbRzgY6lqf7Ct-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -181,6 +184,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B50TVUP5hLIm6PCbgsqm-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;" parent="1" source="ZlpCyy8nbRzgY6lqf7Ct-4" target="B50TVUP5hLIm6PCbgsqm-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rP3hNQ944Pyyz7sb_cdR-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ZlpCyy8nbRzgY6lqf7Ct-4" target="rP3hNQ944Pyyz7sb_cdR-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZlpCyy8nbRzgY6lqf7Ct-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
