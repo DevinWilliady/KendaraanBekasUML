@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T22:13:41.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="rLcH0QqUhMas71jAdPF3" version="16.4.7" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2022-01-26T22:16:33.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="9Fipe4ey8tsHX_lbiNCw" version="16.4.7" type="github" pages="25">
   <diagram id="vs2qv4dK77vRTaIsI0Ao" name="Input Produk">
     <mxGraphModel dx="1621" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2072,7 +2072,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jBBofe3w6DfLCoKBeRuI" name="Login">
-    <mxGraphModel dx="1511" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1511" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="yJ6o0G5Ne2VuXMTcJ_cv-0" />
         <mxCell id="yJ6o0G5Ne2VuXMTcJ_cv-1" parent="yJ6o0G5Ne2VuXMTcJ_cv-0" />
@@ -4091,6 +4091,26 @@
           <mxGeometry x="0.2765" y="-2" relative="1" as="geometry">
             <mxPoint x="-38" y="-13" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1ePYjFq955SsiYKYDB5i" name="Show Approval Group User">
+    <mxGraphModel dx="661" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="1IAtZKT782AY3C9mRwEJ-0" />
+        <mxCell id="1IAtZKT782AY3C9mRwEJ-1" parent="1IAtZKT782AY3C9mRwEJ-0" />
+        <mxCell id="8zuDzuWSGTkVw0LzK9-k-0" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1IAtZKT782AY3C9mRwEJ-1">
+          <mxGeometry x="40" y="120" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8zuDzuWSGTkVw0LzK9-k-1" value="UI : Update&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1IAtZKT782AY3C9mRwEJ-1">
+          <mxGeometry x="160" y="120" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8zuDzuWSGTkVw0LzK9-k-2" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1IAtZKT782AY3C9mRwEJ-1">
+          <mxGeometry x="360" y="120" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="8zuDzuWSGTkVw0LzK9-k-3" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1IAtZKT782AY3C9mRwEJ-1">
+          <mxGeometry x="600" y="120" width="100" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
